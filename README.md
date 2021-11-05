@@ -1,4 +1,4 @@
-# ** Shopping-Cart(React/Typescript)  **
+# **Shopping-Cart(React/Typescript)**
 
 Это мой сольный учебный проект для освоения языка Typescript.
 
