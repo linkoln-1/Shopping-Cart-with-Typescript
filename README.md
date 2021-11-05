@@ -5,7 +5,7 @@
 
 ![img_1.png](files/2021-11-04_14-30-37.png)
 
-## **Функционал сайта.**
+## **Функционал приложения.**
 
 - Добавление товара в корзину <br>
 - Открытие модального окна при клике на кнопку подробнее.<br>
@@ -29,6 +29,14 @@
 ### **Технологии проекта**
 ![Typescript](https://img.shields.io/badge/-Typescript-blue)
 ![React](https://img.shields.io/badge/-React-blue)
+![Prettier](https://img.shields.io/badge/-Prettier-black)
+![Styled-components](https://img.shields.io/badge/-Styled-Components-black)
+![React-Query](https://img.shields.io/badge/-React-Query-black)
+
+
+
+
+![img_3.png](files/2021-11-04_14-34-51.png)
 
 
 
@@ -36,21 +44,11 @@
 _______________________________________________________________________________
 
 Создал React-приложение project-recipes.
-Из проекта удалил лишние файлы и создал нужные для начало работы компоненты и репозитории.
+Из проекта удалил лишние файлы и создал нужные для начало работы компоненты.
 Установил следующие библиотеки в зависимости:
-- react-redux
-- redux
-- redux-logger
-- react-router-dom
-- redux-thunk
-- prettier
+- Material UI
+- Styled-Components
+- Prettier
+ и многие другие.
 
 
-
-_______________________________________________________________________________
-
-## **Для выполнения поставленных задач я использовал следующие библиотеки:**
-
-- redux, redux-thunk - чтобы создавать асинхронные экшены
-- react-router-dom - для роутинга
-- react-rating, react-icons, MaterialUI, json-server и многие другие маленькие библиотеки
