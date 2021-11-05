@@ -30,8 +30,8 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-blue)
 ![React](https://img.shields.io/badge/-React-blue)
 ![Prettier](https://img.shields.io/badge/-Prettier-black)
-![Styled-components](https://img.shields.io/badge/-Styled-Components-black)
-![React-Query](https://img.shields.io/badge/-React-Query-black)
+![Styled-components](https://img.shields.io/badge/-StyledComponents-black)
+![React-Query](https://img.shields.io/badge/-ReactQuery-black)
 
 
 
